@@ -1,0 +1,79 @@
+body
+{
+background-color:black;
+
+}
+
+#signUp1{
+    height: 650px;
+    width: 80%;
+    padding-top: -20px;
+}
+
+
+#footer
+{
+    padding-top: 50px;
+height:40px ;
+background-color:blueviolet;
+}
+
+
+#footerContent
+{
+margin-top: -50px;
+color: rgb(13, 13, 14);
+font-size:20px;
+font-weight: bolder;
+}
+
+#table
+{
+    background-color: blanchedalmond;
+border: black;
+float: right;
+
+height: 654px;
+width: 300px;
+
+margin-top: -743px;;
+}
+
+input{
+   margin-right: 50px;
+   margin-left: 90px;    
+}
+button{
+margin-left: 120px;
+    }
+ h1{
+     text-align: center;
+ }   
+ button:hover{
+    transform: scale(1.2);
+    transform-origin: left;
+    border-radius: 10px;
+    transition-duration: 0.10s;
+ }
+ p
+ {
+     margin-left: 20px; 
+ }
+
+ #green2{
+  height: 35px;
+  width: 35px;
+ }
+ #female{margin-left: 10px;
+
+ }
+ #male{
+    margin-left: 5px;
+ }
+ /* #others{
+    
+ } */
+#gender{
+    margin-left: 20px;
+   
+}
